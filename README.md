@@ -1,9 +1,9 @@
 # Public Good-Faith Security Disclosures
 
-**I am a security researcher exposing systemic vulnerabilities in the infrastructure that governs our lives.**  
-These disclosures are made immediately and publicly, in absolute good faith, because repeated institutional failures have transformed traditional disclosure processes into barriers to public safety, not a pathway to it.  
-**My singular intent: reveal the truth about what puts you at risk so that accountability becomes unavoidable.**  
-Our children deserve systems built on transparency, not the comfortable illusions of those who profit from our ignorance.
+I am a security researcher exposing systemic vulnerabilities in the systems that shape our lives.
+Repeated institutional failures have made private disclosure a barrier to public safety, not a solution.
+My intent is clear: reveal the truth about what puts you at risk, so accountability is unavoidable.
+Our children deserve transparency... not comfortable illusions that protect the powerful.
 
 ---
 
@@ -13,10 +13,10 @@ Our children deserve systems built on transparency, not the comfortable illusion
 <br>
 
 **What I guarantee:**
-- Disclosures made in **absolute good faith**
-- Vulnerabilities reported are **real and consequential**
-- My intent is **unwavering**: public safety over institutional comfort
-- I will **engage honestly** with technical questions and verification
+- Disclosures made in absolute good faith
+- Vulnerabilities reported are real and consequential
+- My intent is unwavering: public safety over institutional comfort
+- I will engage honestly with technical questions and verification
 
 **What I cannot guarantee:**
 - Perfect documentation... I work alone, with limited resources
@@ -26,9 +26,9 @@ Our children deserve systems built on transparency, not the comfortable illusion
 > **Imperfect documentation of a real vulnerability is infinitely more valuable than perfect silence.**
 
 Researchers, verify my findings. Correct my errors. Debate my severity assessments...  
-**But do not dismiss legitimate concerns because the messenger is imperfect.**
+But do not dismiss legitimate concerns because the messenger is imperfect.
 
-The standard is not perfection... **the standard is good faith.** That is what I offer, without reservation.
+The standard is not perfection... the standard is good faith. That is what I offer, without reservation.
 
 </details>
 
@@ -40,14 +40,14 @@ The standard is not perfection... **the standard is good faith.** That is what I
 <br>
 
 These reports are technical... not everyone will grasp every detail, and that’s fine.  
-**What matters is the intent: to expose what puts you at risk.**
+What matters is the intent: to expose what puts you at risk.
 
 There will be imperfections, incomplete documentation, debate on technical points...  
-**This does not diminish their validity or importance.**
+This does not diminish their validity or importance.
 
-> **You don’t need to understand the code... you need to understand the consequence.**  
-> **You don’t need to parse the architecture... you need to recognize the risk.**  
-> **You don’t need to know the mechanism... you need to know you deserve better.**
+> You don’t need to understand the code... you need to understand the consequence. 
+> You don’t need to parse the architecture... you need to recognize the risk.
+> You don’t need to know the mechanism... you need to know you deserve better.
 
 </details>
 
@@ -70,7 +70,7 @@ When the powerful abdicate responsibility, we must care for each other.
 **Imperfection does not negate truth.**  
 My methods and documentation may be flawed... but the vulnerabilities are real, and your right to know is absolute.
 
-> **"When trust fails, all we have left is each other."**
+> "When trust fails, all we have left is each other."
 
 </details>
 
@@ -83,20 +83,20 @@ My methods and documentation may be flawed... but the vulnerabilities are real, 
 
 I have borne witness to a pattern that must not be ignored:
 
-**Institutions, when confronted with evidence of failure, do not reform... they obscure.**  
+Institutions, when confronted with evidence of failure, do not reform... they obscure. 
 They prioritize reputation over remedy.
 
 I have followed process. I have waited for accountability. I have learned this...  
-**The systems that should protect us have become mechanisms for our exploitation.**
+The systems that should protect us have become mechanisms for our exploitation.
 
 - **Report a vulnerability** ... Silence  
 - **Escalate concern** ... Bureaucratic deflection  
 - **Demand action** ... Institutional self-preservation
 
-When entrusted institutions opt for survival over public protection, **disclosure is no longer a choice... it is the only ethical response.**
+When entrusted institutions opt for survival over public protection, disclosure is no longer a choice... it is the only ethical response.
 
 This isn't rebellion...  
-**This is remembering what we owe to each other when those in power forget.**
+This is remembering what we owe to each other when those in power forget.
 
 </details>
 
@@ -106,15 +106,15 @@ This isn't rebellion...
 
 
 Everything I do, I do for my child.  
-Not as metaphor. Not as rhetoric. **As operational reality.**
+Not as metaphor. Not as rhetoric. As operational reality.
 
 In the digital age, cybersecurity *is* child safety.  
 The vulnerability I expose today is the attack our children face tomorrow... through their schools, their hospitals, their identities, their future.
 
 Consider what's at stake:
-- **Every unpatched system:** a door left unlocked in their world
-- **Every concealed flaw:** a trap set for them
-- **Every tolerated institutional failure:** a lesson we teach them about what to accept
+- Every unpatched system: a door left unlocked in their world
+- Every concealed flaw: a trap set for them
+- Every tolerated institutional failure: a lesson we teach them about what to accept
 
 **Every broken system we leave behind is a danger we actively choose for them.**
 
@@ -155,7 +155,7 @@ They can ignore my findings, question my methods, discredit my motives, highligh
 
 We stand at a threshold...
 
-Our systems—data, infrastructure, our children's futures—are **catastrophically fragile in ways most will never see.**  
+Our systems—data, infrastructure, our children's futures—are catastrophically fragile in ways most will never see. 
 Those who perceive the cracks face a choice...  
 Look away, or bear witness.  
 Preserve comfort, or pursue truth.  
@@ -169,34 +169,17 @@ Not in institutions. Not in systems.
 
 In our capacity to face harsh truths and forge something better.  
 In our power to choose accountability over comfort.  
-**Imperfect truth, offered in good faith, is worth more than perfect silence.**
+Imperfect truth, offered in good faith, is worth more than perfect silence.
 
-**This is my offering...  
+This is my offering...  
 This is my covenant with the future...  
 This is the inheritance I choose:  
 A fracture in the façade...  
-The beginning of something better.**
+The beginning of something better.
 
 
 ---
 
-<details>
-<summary><strong>The Challenge Before You </strong></summary>
-
-<br>
-
-> **The systems we accept today become the inheritance of tomorrow.**  
-> **The silence we permit now becomes the vulnerability that consumes our children.**
-
-You know enough.  
-You know the intent.  
-You know the stakes.
-
-**The question is not whether the system is broken...  
-The question is what you will do, now that you cannot unknow the truth.**
-
----
-</details>
 
 
 *These disclosures are an act of love disguised as an act of defiance...  
