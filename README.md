@@ -172,11 +172,6 @@ In our capacity to face harsh truths and forge something better.
 In our power to choose accountability over comfort.  
 Imperfect truth, offered in good faith, is worth more than perfect silence.
 
-This is my offering...  
-This is my covenant with the future...  
-This is the inheritance I choose:  
-A fracture in the façade...  
-The beginning of something better.
 
 
 ---
