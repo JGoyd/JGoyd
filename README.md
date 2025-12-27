@@ -2,8 +2,9 @@
 
 I am a security researcher exposing systemic vulnerabilities in the systems that shape our lives.
 Repeated institutional failures have made private disclosure a barrier to public safety, not a solution.
+
 My intent is clear: reveal the truth about what puts you at risk, so accountability is unavoidable.
-Our children deserve transparency... not comfortable illusions that protect the powerful.
+Our children deserve transparency... not comfortable illusions.
 
 ---
 
