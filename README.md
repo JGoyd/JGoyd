@@ -182,6 +182,5 @@ Imperfect truth, offered in good faith, is worth more than perfect silence.
 They are imperfect, as all human works are...  
 But they are offered in absolute good faith.*
 
-**The choice... always... remains yours. Choose wisely.**
 
 ---
