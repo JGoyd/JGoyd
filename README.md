@@ -8,7 +8,7 @@ Our children deserve systems built on transparency, not the comfortable illusion
 ---
 
 <details>
-<summary><strong>My Covenant: What I Guarantee and What I Cannot (Click to expand)</strong></summary>
+<summary><strong>My Covenant: What I Guarantee and What I Cannot </strong></summary>
 
 <br>
 
@@ -35,7 +35,7 @@ The standard is not perfection... **the standard is good faith.** That is what I
 ---
 
 <details>
-<summary><strong>About These Disclosures (Click to expand)</strong></summary>
+<summary><strong>About These Disclosures </strong></summary>
 
 <br>
 
@@ -54,7 +54,7 @@ There will be imperfections, incomplete documentation, debate on technical point
 ---
 
 <details>
-<summary><strong>My Principles (Click to expand)</strong></summary>
+<summary><strong>My Principles </strong></summary>
 
 <br>
 
@@ -77,7 +77,7 @@ My methods and documentation may be flawed... but the vulnerabilities are real, 
 ---
 
 <details>
-<summary><strong>Why I Walk This Path (Click to expand)</strong></summary>
+<summary><strong>Why I Walk This Path </strong></summary>
 
 <br>
 
@@ -102,10 +102,8 @@ This isn't rebellion...
 
 ---
 
-<details>
-<summary><strong>A Moral Imperative: A Parent's Sacred Duty (Click to expand)</strong></summary>
+## A Moral Imperative: A Parent's Sacred Duty 
 
-<br>
 
 Everything I do, I do for my child.  
 Not as metaphor. Not as rhetoric. **As operational reality.**
@@ -131,12 +129,11 @@ They can ignore my findings, question my methods, discredit my motives, highligh
 **They cannot unsound the bell that has already rung.**  
 **They cannot erase what has now been witnessed.**
 
-</details>
 
 ---
 
 <details>
-<summary><strong>To Those Who Follow (Click to expand)</strong></summary>
+<summary><strong>To Those Who Follow </strong></summary>
 
 <br>
 
@@ -154,10 +151,7 @@ They can ignore my findings, question my methods, discredit my motives, highligh
 
 ---
 
-<details>
-<summary><strong>A Final Truth (Click to expand)</strong></summary>
-
-<br>
+## A Final Truth 
 
 We stand at a threshold...
 
@@ -183,12 +177,11 @@ This is the inheritance I choose:
 A fracture in the façade...  
 The beginning of something better.**
 
-</details>
 
 ---
 
 <details>
-<summary><strong>The Challenge Before You (Click to expand)</strong></summary>
+<summary><strong>The Challenge Before You </strong></summary>
 
 <br>
 
@@ -203,6 +196,8 @@ You know the stakes.
 The question is what you will do, now that you cannot unknow the truth.**
 
 ---
+</details>
+
 
 *These disclosures are an act of love disguised as an act of defiance...  
 They are imperfect, as all human works are...  
@@ -210,5 +205,4 @@ But they are offered in absolute good faith.*
 
 **The choice... always... remains yours. Choose wisely.**
 
-</details>
-
+---
